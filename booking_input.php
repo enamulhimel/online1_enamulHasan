@@ -12,6 +12,7 @@
         Date <input type="date" name="date" id="">
         From <input type="text" name="from">
         To <input type="text" name="to">
+        <input type="submit" value="Submit">
     </form>
 </body>
 </html>
