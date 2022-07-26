@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="">
+    <form action="cancel.php" method="POST">
         ID <input type="text" name="id">
         <input type="submit" value="Submit">
     </form>
