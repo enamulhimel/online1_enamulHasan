@@ -8,7 +8,7 @@
 </head>
 <body>
     <form action="result_by_id.php" method="POST">
-        ID <input type="text" name="name" id="">
+        ID <input type="text" name="id" id="">
         <input type="submit" value="Submit">
     </form>
 </body>
