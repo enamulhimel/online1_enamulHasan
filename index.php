@@ -43,7 +43,7 @@
 
     <a href="booking_input.php">Add Booking</a><br>
     <a href="cancel_input.php">Cancel Booking</a><br>
-    <a href="">View By ID</a><br>
-    <a href="">View By Name</a><br>
+    <a href="ticket_history_user.php">View By ID</a><br>
+    <a href="ticket_history_id.php">View By Name</a><br>
 </body>
 </html>
