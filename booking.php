@@ -13,6 +13,6 @@
     mysqli_query($connect, $query)
     or die("Can not execute query");
 
-    header('Location: index.html');
+    header('Location: index.php');
 
 ?>
