@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="">
+    <form action="booking.php" method="POST">
         Name <input type="text" name="name">
         Date <input type="date" name="date" id="">
         From <input type="text" name="from">
